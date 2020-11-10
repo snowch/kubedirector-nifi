@@ -44,7 +44,7 @@
         ],
         "defaultImageRepoTag": "snowch/kubedirector-nifi:latest",
         "defaultConfigPackage": {
-            "packageURL": "https://github.com/snowch/kubedirector-nifi-appconfig/suites/1477588462/artifacts/25506041"
+            "packageURL": "https://github.com/snowch/kubedirector-nifi-appconfig/releases/download/refs%2Fheads%2Fmain/appconfig.tgz"
         },
         "roles": [
             {
