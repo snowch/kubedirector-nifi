@@ -1,0 +1,6 @@
+[submodule "kubedirector-nifi-appconfig"]
+	path = kubedirector-nifi-appconfig
+	url = https://github.com/snowch/kubedirector-nifi-appconfig
+[submodule "kubedirector-nifi-docker-image"]
+	path = kubedirector-nifi-docker-image
+	url = https://github.com/snowch/kubedirector-nifi-docker-image
